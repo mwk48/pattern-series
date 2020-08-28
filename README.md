@@ -1,1 +1,1 @@
-# pattern-series
+# pattern-series from Codewars 
